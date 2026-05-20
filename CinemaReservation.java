@@ -1,7 +1,3 @@
-//Note:
-//source guide galing kay gemini, pasensya na hindi po ako magaling magcode :((
-// "//" di ko alam ano input/display natin jan pero just incase ano pwede ilagay ty.
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
